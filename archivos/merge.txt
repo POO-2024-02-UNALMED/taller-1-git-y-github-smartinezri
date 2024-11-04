@@ -1,0 +1,1 @@
+Debido a que se realizaron cambios en el contenido del archivo "respuesta.txt"
