@@ -1,3 +1,7 @@
+Debido a que se realizaron cambios en el contenido del archivo "respuesta.txt"
+
 Santiago
 22
 Aprender en profundidad a programar con un enfoque orientado a objetos
+
+Lo más probable es que nos olvidemos de los cambios que hicimos en cada ubicación, lo que provocará conflictos a la hora de intentar realizar un push
